@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mastermind</string>
+    <string name="settingName_Placeholder">Setting Name</string>
+    <string name="settingDescription_Placeholder">Setting Description</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score_placeholder">Score</string>
+    <string name="settings_placeholder">Settings</string>
+    <string name="save_placeholder">Save</string>
+    <string name="load_placeholder">Load</string>
+    <string name="guess_hint">Enter your guess here</string>
+    <string name="submit_placeholder">Submit</string>
+    <string name="newGame_placeholder">New Game</string>
+</resources>
